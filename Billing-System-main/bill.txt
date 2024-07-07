@@ -1,0 +1,11 @@
+
+Bill No: 7672
+Name: sahil
+Phone: 7992370683
+===================================
+Product          Qty         Price
+Bread           15         $15
+Candy           2         $6
+Hamburger       1       $8
+Food Oil       10       $50
+Waffer         5         $10
